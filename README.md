@@ -18,14 +18,6 @@ Add, remove, and view tasks directly from your terminal.
 
 ---
 
-## 📸 Demo
-
-> 🎥 Here’s a quick demo of the CLI in action:
-
-![Todo CLI App Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZzNW41bXl6cnBpYTU3eGoxZHkyMmE5N25kMnV1dXAwZ3pyODNudCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Node.js**  
